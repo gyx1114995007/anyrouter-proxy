@@ -1,1 +1,202 @@
-aW1wb3J0IG9zCmltcG9ydCBqc29uCmltcG9ydCBsb2dnaW5nCmltcG9ydCBpdGVydG9vbHMKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmZyb20gZmFzdGFwaSBpbXBvcnQgRmFzdEFQSSwgUmVxdWVzdApmcm9tIGZhc3RhcGkucmVzcG9uc2VzIGltcG9ydCBTdHJlYW1pbmdSZXNwb25zZSwgSlNPTlJlc3BvbnNlCmltcG9ydCBodHRweAoKIyA9PT09PT09PT09IOWKoOi9vemFjee9riA9PT09PT09PT09PQpDT05GSUdfUEFUSCA9IFBhdGgoX19maWxlX18pLnBhcmVudCAvICJjb25maWcuanNvbiIKCgpkZWYgbG9hZF9jb25maWcoKToKICAgIHdpdGggb3BlbihDT05GSUdfUEFUSCwgInIiLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIHJldHVybiBqc29uLmxvYWQoZikKCgpjb25maWcgPSBsb2FkX2NvbmZpZygpCgpERUJVRyA9IGNvbmZpZy5nZXQoImRlYnVnIiwgRmFsc2UpCkFOWVJPVVRFUl9VUkwgPSBjb25maWcuZ2V0KCJhbnlyb3V0ZXJfdXJsIiwgIiIpCkZJWEVEX1VBID0gY29uZmlnLmdldCgidXNlcl9hZ2VudCIsICIiKQpBUElfS0VZUyA9IGNvbmZpZy5nZXQoImFwaV9rZXlzIiwgW10pCgpsb2dnaW5nLmJhc2ljQ29uZmlnKAogICAgbGV2ZWw9bG9nZ2luZy5ERUJVRyBpZiBERUJVRyBlbHNlIGxvZ2dpbmcuSU5GTywKICAgIGZvcm1hdD0iJShhc2N0aW1lKXMgWyUobGV2ZWxuYW1lKXNdICUobWVzc2FnZSlzIgopCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCJwcm94eSIpCgojIOi9ruivouS7o+S7o+WZqAprZXlfY3ljbGUgPSBpdGVydG9vbHMuY3ljbGUoQVBJX0tFWVMpIGlmIEFQSV9LRVlTIGVsc2UgTm9uZQoKUE9SVCA9IGludChvcy5nZXRlbnYoIlBPUlQiLCAiODA4MCIpKQoKYXBwID0gRmFzdEFQSSgpCgojIEFueVJvdXRlciDlm7rlrpogc3lzdGVtCkZJWEVEX1NZU1RFTSA9IFsKICAgIHsKICAgICAgICAidHlwZSI6ICJ0ZXh0IiwKICAgICAgICAidGV4dCI6ICJZb3UgYXJlIENsYXVkZSBDb2RlLCBBbnRocm9waWMncyBvZmZpY2lhbCBDTEkgZm9yIENsYXVkZS4iLAogICAgICAgICJjYWNoZV9jb250cm9sIjogeyJ0eXBlIjogImVwaGVtZXJhbCJ9CiAgICB9LAogICAgewogICAgICAgICJ0eXBlIjogInRleHQiLAogICAgICAgICJ0ZXh0IjogIi4iLAogICAgICAgICJjYWNoZV9jb250cm9sIjogeyJ0eXBlIjogImVwaGVtZXJhbCJ9CiAgICB9Cl0KCgpkZWYgZ2V0X25leHRfa2V5KCk6CiAgICAiIiLova7or6Lojrflj5bkuIvkuIDkuKogQVBJIGtleSIiIgogICAgaWYga2V5X2N5Y2xlOgogICAgICAgIHJldHVybiBuZXh0KGtleV9jeWNsZSkKICAgIHJldHVybiAiIgoKCmRlZiBnZXRfdXNlcl9zeXN0ZW1fdGV4dChvcmlnaW5hbF9zeXN0ZW0pOgogICAgIiIi5o+Q5Y+W55So5oi35Y6f5aeLIHN5c3RlbSDmj5DnpLror43mlofmnKwiIiIKICAgIGlmIGlzaW5zdGFuY2Uob3JpZ2luYWxfc3lzdGVtLCBzdHIpIGFuZCBvcmlnaW5hbF9zeXN0ZW0uc3RyaXAoKToKICAgICAgICByZXR1cm4gb3JpZ2luYWxfc3lzdGVtLnN0cmlwKCkKICAgIGVsaWYgaXNpbnN0YW5jZShvcmlnaW5hbF9zeXN0ZW0sIGxpc3QpOgogICAgICAgIHBhcnRzID0gW10KICAgICAgICBmb3IgaXRlbSBpbiBvcmlnaW5hbF9zeXN0ZW06CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoaXRlbSwgZGljdCkgYW5kIGl0ZW0uZ2V0KCJ0ZXh0IiwgIiIpLnN0cmlwKCk6CiAgICAgICAgICAgICAgICBwYXJ0cy5hcHBlbmQoaXRlbVsidGV4dCJdLnN0cmlwKCkpCiAgICAgICAgcmV0dXJuICJcblxuIi5qb2luKHBhcnRzKSBpZiBwYXJ0cyBlbHNlICIiCiAgICByZXR1cm4gIiIKCgpkZWYgdHJhbnNmb3JtX2JvZHkoYm9keTogZGljdCkgLT4gZGljdDoKICAgICIiIui9rOaNouivt+axguS9k+S4uiBBbnlSb3V0ZXIg5YW85a655qC85byPIiIiCiAgICB1c2VyX3N5c3RlbSA9IGdldF91c2VyX3N5c3RlbV90ZXh0KGJvZHkuZ2V0KCJzeXN0ZW0iKSkKICAgIGJvZHlbInN5c3RlbSJdID0gRklYRURfU1lTVEVNCgogICAgIyDnlKjmiLfmj5DnpLror43ms6jlhaXnrKzkuIDmnaEgdXNlciBtZXNzYWdlCiAgICBpZiB1c2VyX3N5c3RlbToKICAgICAgICBmb3IgbXNnIGluIGJvZHkuZ2V0KCJtZXNzYWdlcyIsIFtdKToKICAgICAgICAgICAgaWYgbXNnLmdldCgicm9sZSIpID09ICJ1c2VyIjoKICAgICAgICAgICAgICAgIGNvbnRlbnQgPSBtc2cuZ2V0KCJjb250ZW50IiwgIiIpCiAgICAgICAgICAgICAgICBwcmVmaXggPSBmIltTeXN0ZW0gSW5zdHJ1Y3Rpb25zXVxue3VzZXJfc3lzdGVtfVxuWy9TeXN0ZW0gSW5zdHJ1Y3Rpb25zXVxuXG4iCiAgICAgICAgICAgICAgICBpZiBpc2luc3RhbmNlKGNvbnRlbnQsIHN0cik6CiAgICAgICAgICAgICAgICAgICAgbXNnWyJjb250ZW50Il0gPSBwcmVmaXggKyBjb250ZW50CiAgICAgICAgICAgICAgICBlbGlmIGlzaW5zdGFuY2UoY29udGVudCwgbGlzdCkgYW5kIGNvbnRlbnQ6CiAgICAgICAgICAgICAgICAgICAgY29udGVudFswXVsidGV4dCJdID0gcHJlZml4ICsgY29udGVudFswXS5nZXQoInRleHQiLCAiIikKICAgICAgICAgICAgICAgIGJyZWFrCgogICAgIyDmuIXnkIbnqbogYXNzaXN0YW50ICsg5ZCI5bm26L+e57ut5ZCM6KeS6ImyCiAgICBjbGVhbmVkID0gW10KICAgIGZvciBtc2cgaW4gYm9keS5nZXQoIm1lc3NhZ2VzIiwgW10pOgogICAgICAgIGlmIG1zZy5nZXQoInJvbGUiKSA9PSAiYXNzaXN0YW50IjoKICAgICAgICAgICAgYyA9IG1zZy5nZXQoImNvbnRlbnQiLCAiIikKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShjLCBzdHIpIGFuZCBub3QgYy5zdHJpcCgpOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShjLCBsaXN0KSBhbmQgbm90IGFueSgKICAgICAgICAgICAgICAgIGlzaW5zdGFuY2UoYiwgZGljdCkgYW5kIGIuZ2V0KCJ0ZXh0IiwgIiIpLnN0cmlwKCkgZm9yIGIgaW4gYwogICAgICAgICAgICApOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiBjbGVhbmVkIGFuZCBjbGVhbmVkWy0xXVsicm9sZSJdID09IG1zZ1sicm9sZSJdOgogICAgICAgICAgICBwcmV2ID0gY2xlYW5lZFstMV0KICAgICAgICAgICAgcHQgPSBwcmV2WyJjb250ZW50Il0gaWYgaXNpbnN0YW5jZShwcmV2WyJjb250ZW50Il0sIHN0cikgZWxzZSBwcmV2WyJjb250ZW50Il1bMF0uZ2V0KCJ0ZXh0IiwgIiIpCiAgICAgICAgICAgIGN0ID0gbXNnWyJjb250ZW50Il0gaWYgaXNpbnN0YW5jZShtc2dbImNvbnRlbnQiXSwgc3RyKSBlbHNlIG1zZ1siY29udGVudCJdWzBdLmdldCgidGV4dCIsICIiKQogICAgICAgICAgICBwcmV2WyJjb250ZW50Il0gPSBbeyJ0eXBlIjogInRleHQiLCAidGV4dCI6IGYie3B0fVxue2N0fSIsICJjYWNoZV9jb250cm9sIjogeyJ0eXBlIjogImVwaGVtZXJhbCJ9fV0KICAgICAgICBlbHNlOgogICAgICAgICAgICBjbGVhbmVkLmFwcGVuZChtc2cpCiAgICBib2R5WyJtZXNzYWdlcyJdID0gY2xlYW5lZAoKICAgICMg57uZ5omA5pyJIGNvbnRlbnQg5Z2X5YqgIGNhY2hlX2NvbnRyb2wKICAgIGZvciBtc2cgaW4gYm9keVsibWVzc2FnZXMiXToKICAgICAgICBjID0gbXNnLmdldCgiY29udGVudCIsICIiKQogICAgICAgIGlmIGlzaW5zdGFuY2UoYywgc3RyKToKICAgICAgICAgICAgbXNnWyJjb250ZW50Il0gPSBbeyJ0eXBlIjogInRleHQiLCAidGV4dCI6IGMsICJjYWNoZV9jb250cm9sIjogeyJ0eXBlIjogImVwaGVtZXJhbCJ9fV0KICAgICAgICBlbGlmIGlzaW5zdGFuY2UoYywgbGlzdCk6CiAgICAgICAgICAgIGZvciBibG9jayBpbiBjOgogICAgICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShibG9jaywgZGljdCkgYW5kICJjYWNoZV9jb250cm9sIiBub3QgaW4gYmxvY2s6CiAgICAgICAgICAgICAgICAgICAgYmxvY2tbImNhY2hlX2NvbnRyb2wiXSA9IHsidHlwZSI6ICJlcGhlbWVyYWwifQoKICAgIGJvZHkuc2V0ZGVmYXVsdCgibWF4X3Rva2VucyIsIDMyMDAwKQogICAgYm9keS5zZXRkZWZhdWx0KCJ0ZW1wZXJhdHVyZSIsIDEpCiAgICBib2R5LnNldGRlZmF1bHQoInN0cmVhbSIsIFRydWUpCiAgICByZXR1cm4gYm9keQoKCiMgPT09PT09PT09PSDng63ph43ovb3phY3nva7mjqXlj6MgPT09PT09PT09PQpAYXBwLnBvc3QoIi9yZWxvYWQiKQphc3luYyBkZWYgcmVsb2FkX2NvbmZpZygpOgogICAgIiIi54Ot6YeN6L29IGNvbmZpZy5qc29u77yM5peg6ZyA6YeN5ZCv5pyN5YqhIiIiCiAgICBnbG9iYWwgY29uZmlnLCBERUJVRywgQU5ZUk9VVEVSX1VSTCwgRklYRURfVUEsIEFQSV9LRVlTLCBrZXlfY3ljbGUKICAgIHRyeToKICAgICAgICBjb25maWcgPSBsb2FkX2NvbmZpZygpCiAgICAgICAgREVCVUcgPSBjb25maWcuZ2V0KCJkZWJ1ZyIsIEZhbHNlKQogICAgICAgIEFOWVJPVVRFUl9VUkwgPSBjb25maWcuZ2V0KCJhbnlyb3V0ZXJfdXJsIiwgIiIpCiAgICAgICAgRklYRURfVUEgPSBjb25maWcuZ2V0KCJ1c2VyX2FnZW50IiwgIiIpCiAgICAgICAgQVBJX0tFWVMgPSBjb25maWcuZ2V0KCJhcGlfa2V5cyIsIFtdKQogICAgICAgIGtleV9jeWNsZSA9IGl0ZXJ0b29scy5jeWNsZShBUElfS0VZUykgaWYgQVBJX0tFWVMgZWxzZSBOb25lCiAgICAgICAgbG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuREVCVUcgaWYgREVCVUcgZWxzZSBsb2dnaW5nLklORk8pCiAgICAgICAgbG9nZ2VyLmluZm8oZiLphY3nva7lt7Lph43ovb3vvIx7bGVuKEFQSV9LRVlTKX0g5LiqIGtleSIpCiAgICAgICAgcmV0dXJuIEpTT05SZXNwb25zZSh7InN0YXR1cyI6ICJvayIsICJrZXlzX2NvdW50IjogbGVuKEFQSV9LRVlTKX0pCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcmV0dXJuIEpTT05SZXNwb25zZSh7InN0YXR1cyI6ICJlcnJvciIsICJtZXNzYWdlIjogc3RyKGUpfSwgc3RhdHVzX2NvZGU9NTAwKQoKCiMgPT09PT09PT09PSDku6PnkIbkuLvot6/nlLEgPT09PT09PT09PQpAYXBwLmFwaV9yb3V0ZSgiL3twYXRoOnBhdGh9IiwgbWV0aG9kcz1bIkdFVCIsICJQT1NUIiwgIlBVVCIsICJERUxFVEUiXSkKYXN5bmMgZGVmIHByb3h5KHJlcXVlc3Q6IFJlcXVlc3QsIHBhdGg6IHN0cik6CiAgICBib2R5X2J5dGVzID0gYXdhaXQgcmVxdWVzdC5ib2R5KCkKCiAgICAjIOWuouaIt+err+S8oOS6hiBrZXkg5bCx55So5a6i5oi356ev55qE77yM5ZCm5YiZ6L2u6K+iCiAgICBhdXRoID0gcmVxdWVzdC5oZWFkZXJzLmdldCgiQXV0aG9yaXphdGlvbiIsICIiKS5zdHJpcCgpCiAgICBpZiBub3QgYXV0aCBvciBhdXRoID09ICJCZWFyZXIiOgogICAgICAgIGtleSA9IGdldF9uZXh0X2tleSgpCiAgICAgICAgYXV0aCA9IGYiQmVhcmVyIHtrZXl9IiBpZiBrZXkgZWxzZSAiIgoKICAgIGhlYWRlcnMgPSB7CiAgICAgICAgIkF1dGhvcml6YXRpb24iOiBhdXRoLAogICAgICAgICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIsCiAgICAgICAgIlVzZXItQWdlbnQiOiBGSVhFRF9VQQogICAgfQoKICAgIHRhcmdldF91cmwgPSBmIntBTllST1VURVJfVVJMLnJzdHJpcCgnLycpfS97cGF0aH0iCgogICAgaWYgcmVxdWVzdC5tZXRob2QgPT0gIlBPU1QiIGFuZCBib2R5X2J5dGVzOgogICAgICAgIHRyeToKICAgICAgICAgICAgYm9keSA9IGpzb24ubG9hZHMoYm9keV9ieXRlcykKICAgICAgICAgICAgaWYgREVCVUc6CiAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoZiLljp/lp4vor7fmsYI6IHtqc29uLmR1bXBzKGJvZHksIGVuc3VyZV9hc2NpaT1GYWxzZSlbOjMwMF19IikKICAgICAgICAgICAgYm9keSA9IHRyYW5zZm9ybV9ib2R5KGJvZHkpCiAgICAgICAgICAgIGJvZHlfYnl0ZXMgPSBqc29uLmR1bXBzKGJvZHkpLmVuY29kZSgpCiAgICAgICAgICAgIGlmIERFQlVHOgogICAgICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKGYi6L2s5Y+R5YiwOiB7dGFyZ2V0X3VybH0iKQogICAgICAgIGV4Y2VwdCBqc29uLkpTT05EZWNvZGVFcnJvcjoKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJKU09OIOino+aekOWksei0pe+8jOWOn+agt+mAj+S8oCIpCgogICAgaXNfc3RyZWFtID0gYicic3RyZWFtIjogdHJ1ZScgaW4gYm9keV9ieXRlcyBvciBiJyJzdHJlYW0iOnRydWUnIGluIGJvZHlfYnl0ZXMKCiAgICBpZiBpc19zdHJlYW06CiAgICAgICAgYXN5bmMgZGVmIHN0cmVhbSgpOgogICAgICAgICAgICBhc3luYyB3aXRoIGh0dHB4LkFzeW5jQ2xpZW50KHRpbWVvdXQ9MzAwKSBhcyBjbGllbnQ6CiAgICAgICAgICAgICAgICBhc3luYyB3aXRoIGNsaWVudC5zdHJlYW0oIlBPU1QiLCB0YXJnZXRfdXJsLCBjb250ZW50PWJvZHlfYnl0ZXMsIGhlYWRlcnM9aGVhZGVycykgYXMgcmVzcDoKICAgICAgICAgICAgICAgICAgICBpZiByZXNwLnN0YXR1c19jb2RlICE9IDIwMDoKICAgICAgICAgICAgICAgICAgICAgICAgZXJyID0gYiIiCiAgICAgICAgICAgICAgICAgICAgICAgIGFzeW5jIGZvciBjaHVuayBpbiByZXNwLmFpdGVyX2J5dGVzKCk6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcnIgKz0gY2h1bmsKICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGYiQW55Um91dGVyIHtyZXNwLnN0YXR1c19jb2RlfToge2Vyci5kZWNvZGUoJ3V0Zi04JywgZXJyb3JzPSdyZXBsYWNlJyl9IikKICAgICAgICAgICAgICAgICAgICAgICAgeWllbGQgZXJyCiAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgYXN5bmMgZm9yIGNodW5rIGluIHJlc3AuYWl0ZXJfYnl0ZXMoKToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHlpZWxkIGNodW5rCiAgICAgICAgcmV0dXJuIFN0cmVhbWluZ1Jlc3BvbnNlKHN0cmVhbSgpLCBtZWRpYV90eXBlPSJ0ZXh0L2V2ZW50LXN0cmVhbSIpCiAgICBlbHNlOgogICAgICAgIGFzeW5jIHdpdGggaHR0cHguQXN5bmNDbGllbnQodGltZW91dD0xMjApIGFzIGNsaWVudDoKICAgICAgICAgICAgcmVzcCA9IGF3YWl0IGNsaWVudC5wb3N0KHRhcmdldF91cmwsIGNvbnRlbnQ9Ym9keV9ieXRlcywgaGVhZGVycz1oZWFkZXJzKQogICAgICAgICAgICByZXR1cm4gU3RyZWFtaW5nUmVzcG9uc2UoY29udGVudD1pdGVyKFtyZXNwLmNvbnRlbnRdKSwgc3RhdHVzX2NvZGU9cmVzcC5zdGF0dXNfY29kZSkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgaW1wb3J0IHV2aWNvcm4KICAgIGxvZ2dlci5pbmZvKGYi5ZCv5Yqo5pyN5YqhIHwga2V5czoge2xlbihBUElfS0VZUyl9IHwgdGFyZ2V0OiB7QU5ZUk9VVEVSX1VSTH0iKQogICAgdXZpY29ybi5ydW4oYXBwLCBob3N0PSIwLjAuMC4wIiwgcG9ydD1QT1JUKQo=
+import os
+import json
+import logging
+import itertools
+from pathlib import Path
+from fastapi import FastAPI, Request
+from fastapi.responses import StreamingResponse, JSONResponse
+import httpx
+
+# ========== 加载配置 ===========
+CONFIG_PATH = Path(__file__).parent / "config.json"
+
+
+def load_config():
+    with open(CONFIG_PATH, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+config = load_config()
+
+DEBUG = config.get("debug", False)
+ANYROUTER_URL = config.get("anyrouter_url", "")
+FIXED_UA = config.get("user_agent", "")
+API_KEYS = config.get("api_keys", [])
+
+logging.basicConfig(
+    level=logging.DEBUG if DEBUG else logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s"
+)
+logger = logging.getLogger("proxy")
+
+# 轮询代代器
+key_cycle = itertools.cycle(API_KEYS) if API_KEYS else None
+
+PORT = int(os.getenv("PORT", "8080"))
+
+app = FastAPI()
+
+# AnyRouter 固定 system
+FIXED_SYSTEM = [
+    {
+        "type": "text",
+        "text": "You are Claude Code, Anthropic's official CLI for Claude.",
+        "cache_control": {"type": "ephemeral"}
+    },
+    {
+        "type": "text",
+        "text": ".",
+        "cache_control": {"type": "ephemeral"}
+    }
+]
+
+
+def get_next_key():
+    """轮询获取下一个 API key"""
+    if key_cycle:
+        return next(key_cycle)
+    return ""
+
+
+def get_user_system_text(original_system):
+    """提取用户原始 system 提示词文本"""
+    if isinstance(original_system, str) and original_system.strip():
+        return original_system.strip()
+    elif isinstance(original_system, list):
+        parts = []
+        for item in original_system:
+            if isinstance(item, dict) and item.get("text", "").strip():
+                parts.append(item["text"].strip())
+        return "\n\n".join(parts) if parts else ""
+    return ""
+
+
+def transform_body(body: dict) -> dict:
+    """转换请求体为 AnyRouter 兼容格式"""
+    user_system = get_user_system_text(body.get("system"))
+    body["system"] = FIXED_SYSTEM
+
+    # 用户提示词注入第一条 user message
+    if user_system:
+        for msg in body.get("messages", []):
+            if msg.get("role") == "user":
+                content = msg.get("content", "")
+                prefix = f"[System Instructions]\n{user_system}\n[/System Instructions]\n\n"
+                if isinstance(content, str):
+                    msg["content"] = prefix + content
+                elif isinstance(content, list) and content:
+                    content[0]["text"] = prefix + content[0].get("text", "")
+                break
+
+    # 清理空 assistant + 合并连续同角色
+    cleaned = []
+    for msg in body.get("messages", []):
+        if msg.get("role") == "assistant":
+            c = msg.get("content", "")
+            if isinstance(c, str) and not c.strip():
+                continue
+            if isinstance(c, list) and not any(
+                isinstance(b, dict) and b.get("text", "").strip() for b in c
+            ):
+                continue
+        if cleaned and cleaned[-1]["role"] == msg["role"]:
+            prev = cleaned[-1]
+            pt = prev["content"] if isinstance(prev["content"], str) else prev["content"][0].get("text", "")
+            ct = msg["content"] if isinstance(msg["content"], str) else msg["content"][0].get("text", "")
+            prev["content"] = [{"type": "text", "text": f"{pt}\n{ct}", "cache_control": {"type": "ephemeral"}}]
+        else:
+            cleaned.append(msg)
+    body["messages"] = cleaned
+
+    # 给所有 content 块加 cache_control
+    for msg in body["messages"]:
+        c = msg.get("content", "")
+        if isinstance(c, str):
+            msg["content"] = [{"type": "text", "text": c, "cache_control": {"type": "ephemeral"}}]
+        elif isinstance(c, list):
+            for block in c:
+                if isinstance(block, dict) and "cache_control" not in block:
+                    block["cache_control"] = {"type": "ephemeral"}
+
+    body.setdefault("max_tokens", 32000)
+    body.setdefault("temperature", 1)
+    body.setdefault("stream", True)
+    return body
+
+
+# ========== 热重载配置接口 ==========
+@app.post("/reload")
+async def reload_config():
+    """热重载 config.json，无需重启服务"""
+    global config, DEBUG, ANYROUTER_URL, FIXED_UA, API_KEYS, key_cycle
+    try:
+        config = load_config()
+        DEBUG = config.get("debug", False)
+        ANYROUTER_URL = config.get("anyrouter_url", "")
+        FIXED_UA = config.get("user_agent", "")
+        API_KEYS = config.get("api_keys", [])
+        key_cycle = itertools.cycle(API_KEYS) if API_KEYS else None
+        logger.setLevel(logging.DEBUG if DEBUG else logging.INFO)
+        logger.info(f"配置已重载，{len(API_KEYS)} 个 key")
+        return JSONResponse({"status": "ok", "keys_count": len(API_KEYS)})
+    except Exception as e:
+        return JSONResponse({"status": "error", "message": str(e)}, status_code=500)
+
+
+# ========== 代理主路由 ==========
+@app.api_route("/{path:path}", methods=["GET", "POST", "PUT", "DELETE"])
+async def proxy(request: Request, path: str):
+    body_bytes = await request.body()
+
+    # 客户端传了 key 就用客户积的，否则轮询
+    auth = request.headers.get("Authorization", "").strip()
+    if not auth or auth == "Bearer":
+        key = get_next_key()
+        auth = f"Bearer {key}" if key else ""
+
+    headers = {
+        "Authorization": auth,
+        "Content-Type": "application/json",
+        "User-Agent": FIXED_UA
+    }
+
+    target_url = f"{ANYROUTER_URL.rstrip('/')}/{path}"
+
+    if request.method == "POST" and body_bytes:
+        try:
+            body = json.loads(body_bytes)
+            if DEBUG:
+                logger.debug(f"原始请求: {json.dumps(body, ensure_ascii=False)[:300]}")
+            body = transform_body(body)
+            body_bytes = json.dumps(body).encode()
+            if DEBUG:
+                logger.debug(f"转发到: {target_url}")
+        except json.JSONDecodeError:
+            logger.error("JSON 解析失败，原样透传")
+
+    is_stream = b'"stream": true' in body_bytes or b'"stream":true' in body_bytes
+
+    if is_stream:
+        async def stream():
+            async with httpx.AsyncClient(timeout=300) as client:
+                async with client.stream("POST", target_url, content=body_bytes, headers=headers) as resp:
+                    if resp.status_code != 200:
+                        err = b""
+                        async for chunk in resp.aiter_bytes():
+                            err += chunk
+                        logger.error(f"AnyRouter {resp.status_code}: {err.decode('utf-8', errors='replace')}")
+                        yield err
+                    else:
+                        async for chunk in resp.aiter_bytes():
+                            yield chunk
+        return StreamingResponse(stream(), media_type="text/event-stream")
+    else:
+        async with httpx.AsyncClient(timeout=120) as client:
+            resp = await client.post(target_url, content=body_bytes, headers=headers)
+            return StreamingResponse(content=iter([resp.content]), status_code=resp.status_code)
+
+
+if __name__ == "__main__":
+    import uvicorn
+    logger.info(f"启动服务 | keys: {len(API_KEYS)} | target: {ANYROUTER_URL}")
+    uvicorn.run(app, host="0.0.0.0", port=PORT)
